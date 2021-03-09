@@ -1,0 +1,6 @@
+#Get Started
+
+Create / Reference desired Kubernetes namespace
+Update four deployment files to correlating namespace under <replace>
+
+More:  Public facing Harbor instance
